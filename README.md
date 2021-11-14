@@ -1,0 +1,1 @@
+# golang-fibre-boilerplate-endpoints
