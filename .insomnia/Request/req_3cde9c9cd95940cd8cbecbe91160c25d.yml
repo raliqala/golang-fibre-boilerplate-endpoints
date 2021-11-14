@@ -1,0 +1,29 @@
+_id: req_3cde9c9cd95940cd8cbecbe91160c25d
+type: Request
+parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
+modified: 1636896257116
+created: 1635366490560
+url: "{{ _.local_server }}/api/auth/access-token"
+name: refresh token
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2Mzk0ODM1OTcsImlhdCI6MTYzNjg5MTU5NywiaXNzIjoiYTQ3MWMyYWMtNzIyNi00NjU1LWE1OTUtM2M1YjFkMGFhNGZmIiwic3ViIjoicmVmcmVzaF90b2tlbiIsIklEIjowLCJzZWN0b3IiOiIifQ.pRyDaN-P2DHhJRQpx9vcYLam6aLVsv-SUKXrZIUUN78"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_abb25d865c034a55a36253541e963f62
+authentication: {}
+metaSortKey: -1633463031608
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

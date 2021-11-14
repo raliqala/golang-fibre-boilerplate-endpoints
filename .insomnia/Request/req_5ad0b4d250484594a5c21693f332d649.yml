@@ -1,0 +1,23 @@
+_id: req_5ad0b4d250484594a5c21693f332d649
+type: Request
+parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
+modified: 1636667428900
+created: 1636533942778
+url: "{{ _.local_server }}/api/private/profile"
+name: user profile
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: "{{ _.access_token }}"
+metaSortKey: -1633463031558
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

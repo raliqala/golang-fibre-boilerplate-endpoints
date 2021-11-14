@@ -1,0 +1,16 @@
+_id: env_45809e22057c45f88ffd0f2f5e89e1cd
+type: Environment
+parentId: env_95b72ca4036ac0219ccc4e2caa26ada7ce5175d6
+modified: 1636668702160
+created: 1636579034629
+name: template_golang_fiber
+data:
+  local_server: http://localhost:3000
+  access_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzY2NzIyODMsImlhdCI6MTYzNjY2ODY4MywiaXNzIjoiNjY0OTUxZWYtZTcxMS00NGI4LWEwNzAtZDg2ZjFjOGUwZWVmIiwic3ViIjoiYWNjZXNzX3Rva2VuIiwiSUQiOjB9.VqtjUWnX68h1QMsETfunVY3zwJu7v56Mwa1ZIddMP1c
+dataPropertyOrder:
+  "&":
+    - local_server
+    - access_token
+color: "#ff00e1"
+isPrivate: false
+metaSortKey: 1636579034629

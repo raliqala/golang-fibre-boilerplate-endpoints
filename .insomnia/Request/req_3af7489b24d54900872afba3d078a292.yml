@@ -1,0 +1,23 @@
+_id: req_3af7489b24d54900872afba3d078a292
+type: Request
+parentId: wrk_66ecd878219c47c49b067f33d247dfa9
+modified: 1636544412524
+created: 1632768599353
+url: http://localhost:3000/
+name: Test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzY1NDM3MTgsImlhdCI6MTYzNjU0MjgxOCwiaXNzIjoiNjY0OTUxZWYtZTcxMS00NGI4LWEwNzAtZDg2ZjFjOGUwZWVmIiwic3ViIjoiYWNjZXNzX3Rva2VuIiwiSUQiOjB9.R6gYh3lacdOKms1gdOQkdz1r_04bduN4cpn-WSwq_hI
+metaSortKey: -1635356147725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

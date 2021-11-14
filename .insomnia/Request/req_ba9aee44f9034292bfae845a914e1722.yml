@@ -1,0 +1,32 @@
+_id: req_ba9aee44f9034292bfae845a914e1722
+type: Request
+parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
+modified: 1636891325107
+created: 1633463031658
+url: "{{ _.local_server }}/api/auth/signup"
+name: register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"first_name": "Thabo",
+    	"last_name": "Happy",
+    	"email": "raliqalatopollo@gmail.com",
+    	"password": "[tY&,f{9Gy@s:msC"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_abb25d865c034a55a36253541e963f62
+authentication: {}
+metaSortKey: -1633463031658
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

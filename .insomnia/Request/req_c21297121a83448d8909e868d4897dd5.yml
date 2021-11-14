@@ -1,0 +1,25 @@
+_id: req_c21297121a83448d8909e868d4897dd5
+type: Request
+parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
+modified: 1636891411396
+created: 1636490469404
+url: "{{ _.local_server
+  }}/api/auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzY5Nzc3M\
+  jgsImlhdCI6MTYzNjg5MTMyOCwiaXNzIjoiYTQ3MWMyYWMtNzIyNi00NjU1LWE1OTUtM2M1YjFkMG\
+  FhNGZmIiwic3ViIjoidmVyaWZ5X2VtYWlsIiwiSUQiOjAsInNlY3RvciI6IiJ9.Y9pt6NQDlyt9f5\
+  CukhDJgx6hcFhuB5OuKvh2ex1_v_Q"
+name: verify email
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1633463031633
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

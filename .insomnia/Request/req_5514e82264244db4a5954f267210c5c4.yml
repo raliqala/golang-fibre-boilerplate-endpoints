@@ -1,0 +1,33 @@
+_id: req_5514e82264244db4a5954f267210c5c4
+type: Request
+parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
+modified: 1636896920135
+created: 1636580069249
+url: "{{ _.local_server
+  }}/api/auth/reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2M\
+  zY3NDI0NjksImlhdCI6MTYzNjY1NjA2OSwiaXNzIjoiNjY0OTUxZWYtZTcxMS00NGI4LWEwNzAtZD\
+  g2ZjFjOGUwZWVmIiwic3ViIjoiZm9yZ290X3Bhc3N3b3JkIiwiSUQiOjB9.r2kblllUS0V9zjN0EL\
+  hSTERp4amznjtRiJZLVqoUip4"
+name: reset password
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"password": "[tY&,f{9Gy@s:msC"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_956d3a4afa614c29886374b19d16c73f
+authentication: {}
+metaSortKey: -1633463031639.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

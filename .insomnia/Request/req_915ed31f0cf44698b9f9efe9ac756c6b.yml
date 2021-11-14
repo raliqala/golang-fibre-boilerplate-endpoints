@@ -1,0 +1,29 @@
+_id: req_915ed31f0cf44698b9f9efe9ac756c6b
+type: Request
+parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
+modified: 1636667411538
+created: 1636578960908
+url: "{{ _.local_server }}/api/auth/forgot-password"
+name: forgot password
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "raliqalatopollo@gmail.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_abb25d865c034a55a36253541e963f62
+authentication: {}
+metaSortKey: -1633463031645.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
