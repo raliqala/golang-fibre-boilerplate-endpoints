@@ -1,19 +1,17 @@
-_id: req_5ad0b4d250484594a5c21693f332d649
+_id: req_67bbf4db2b2045fa955c25641fbb2660
 type: Request
 parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
-modified: 1652646421826
-created: 1636533942778
-url: "{{ _.local_server }}/api/private/profile"
-name: user profile
+modified: 1651180649108
+created: 1644160140657
+url: "{{ _.local_server }}/api/auth/verifyCode/93028654"
+name: verify email by code
 description: ""
 method: POST
 body: {}
 parameters: []
 headers: []
-authentication:
-  type: bearer
-  token: "{{ _.access_token }}"
-metaSortKey: -1633463031558
+authentication: {}
+metaSortKey: -1633463031620.5
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

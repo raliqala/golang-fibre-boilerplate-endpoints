@@ -1,9 +1,9 @@
 _id: req_3af7489b24d54900872afba3d078a292
 type: Request
 parentId: wrk_66ecd878219c47c49b067f33d247dfa9
-modified: 1636544412524
+modified: 1646343311843
 created: 1632768599353
-url: http://localhost:3000/
+url: http://localhost:3000/health
 name: Test
 description: ""
 method: GET

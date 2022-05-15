@@ -1,7 +1,7 @@
 _id: req_957ef3e2883f4c1aa40ba163a046d21e
 type: Request
 parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
-modified: 1636897267774
+modified: 1652646377040
 created: 1635356203646
 url: "{{ _.local_server }}/api/auth/signin"
 name: login
@@ -11,8 +11,9 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"email": "test@gmail.com",
-    	"password": "[tY&,f{9Gy@s:msC"
+    	"email": "raciw96075@mxclip.com",
+    	"password": "[tY&,f{9Gy@s:msC",
+    	"remember": true
     }
 parameters: []
 headers:
