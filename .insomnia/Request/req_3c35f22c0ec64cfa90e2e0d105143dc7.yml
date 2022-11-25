@@ -1,0 +1,21 @@
+_id: req_3c35f22c0ec64cfa90e2e0d105143dc7
+type: Request
+parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
+modified: 1669400810065
+created: 1669400698832
+url: "{{ _.local_server }}/api/auth/logout"
+name: logout
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669400698832
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

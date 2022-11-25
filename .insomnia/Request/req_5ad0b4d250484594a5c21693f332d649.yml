@@ -1,7 +1,7 @@
 _id: req_5ad0b4d250484594a5c21693f332d649
 type: Request
 parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
-modified: 1669399412450
+modified: 1669400668645
 created: 1636533942778
 url: "{{ _.local_server }}/api/private/profile"
 name: user profile
@@ -12,7 +12,7 @@ parameters: []
 headers:
   - id: pair_384897c4f3bc41d0a408188dffe9e5e6
     name: device_id
-    value: 8641GFB1GRDJFYHCB8423
+    value: 8641GFB1GRDJFYHCB8423T
     description: ""
 authentication:
   type: bearer
