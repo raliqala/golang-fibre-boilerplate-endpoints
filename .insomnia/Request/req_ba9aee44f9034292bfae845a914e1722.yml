@@ -1,7 +1,7 @@
 _id: req_ba9aee44f9034292bfae845a914e1722
 type: Request
 parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
-modified: 1652646386768
+modified: 1669398679881
 created: 1633463031658
 url: "{{ _.local_server }}/api/auth/signup"
 name: register
@@ -14,7 +14,8 @@ body:
     	"first_name": "Thabo",
     	"last_name": "Happy",
     	"email": "raliqalatopollo@gmail.com",
-    	"password": "[tY&,f{9Gy@s:msC"
+    	"password": "[tY&,f{9Gy@s:msC",
+    	"phone_number": "+27730978612"
     }
 parameters: []
 headers:

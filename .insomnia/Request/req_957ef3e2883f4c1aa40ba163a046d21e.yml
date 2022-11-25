@@ -1,7 +1,7 @@
 _id: req_957ef3e2883f4c1aa40ba163a046d21e
 type: Request
 parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
-modified: 1652646377040
+modified: 1669399268772
 created: 1635356203646
 url: "{{ _.local_server }}/api/auth/signin"
 name: login
@@ -13,13 +13,17 @@ body:
     {
     	"email": "raciw96075@mxclip.com",
     	"password": "[tY&,f{9Gy@s:msC",
-    	"remember": true
+    	"remember": false
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
     id: pair_f792cb2ab00045d6ab40d8d18aeaca66
+  - id: pair_a33e0b9ed2a64d559530adb540954ca8
+    name: device_id
+    value: 8641GFB1GRDJFYHCB8423
+    description: ""
 authentication: {}
 metaSortKey: -1635356203646
 isPrivate: false

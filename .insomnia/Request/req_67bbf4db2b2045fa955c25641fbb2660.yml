@@ -1,9 +1,9 @@
 _id: req_67bbf4db2b2045fa955c25641fbb2660
 type: Request
 parentId: fld_f796d4c8b4a94817a4d4ab05e1d9cd1f
-modified: 1651180649108
+modified: 1669399251207
 created: 1644160140657
-url: "{{ _.local_server }}/api/auth/verifyCode/93028654"
+url: "{{ _.local_server }}/api/auth/verifyCode/182467"
 name: verify email by code
 description: ""
 method: POST
